@@ -17,3 +17,7 @@
 [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
 
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+[Multiple Object Recognition with Visual Attention](https://arxiv.org/pdf/1412.7755.pdf)
+
+[DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/pdf/1502.04623.pdf)
