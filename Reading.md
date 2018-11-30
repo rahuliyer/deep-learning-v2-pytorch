@@ -21,3 +21,5 @@
 [Multiple Object Recognition with Visual Attention](https://arxiv.org/pdf/1412.7755.pdf)
 
 [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/pdf/1502.04623.pdf)
+
+[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044v2.pdf)
