@@ -25,7 +25,7 @@
 
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-#### Image captioning and visual Q&A ####
+### Image captioning and visual Q&A ###
 
 [Multiple Object Recognition with Visual Attention](https://arxiv.org/pdf/1412.7755.pdf)
 
