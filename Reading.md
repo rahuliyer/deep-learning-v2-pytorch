@@ -42,3 +42,10 @@
 [Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge](https://arxiv.org/pdf/1708.02711.pdf)
 
 [Visual Question Answering: A Survey of Methods and Datasets](https://arxiv.org/pdf/1607.05910.pdf)
+
+## Books ##
+[Grokking Deep Learning by Andrew Trask](https://www.manning.com/books/grokking-deep-learning)
+
+[Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com)
+
+[Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org)
