@@ -43,6 +43,14 @@
 
 [Visual Question Answering: A Survey of Methods and Datasets](https://arxiv.org/pdf/1607.05910.pdf)
 
+## GANs ##
+[StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242)
+
+[Interactive Image Generation via Generative Adversarial Networks](https://github.com/junyanz/iGAN)
+
+[CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5bea23cd_cartoongan/cartoongan.pdf)
+
+[Unsupervised Creation of Parameterized Avatars](https://research.fb.com/wp-content/uploads/2017/08/unsupervised-creation-parameterized.pdf)
 ## Books ##
 [Grokking Deep Learning by Andrew Trask](https://www.manning.com/books/grokking-deep-learning)
 
