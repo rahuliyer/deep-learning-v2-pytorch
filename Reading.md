@@ -51,6 +51,9 @@
 [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5bea23cd_cartoongan/cartoongan.pdf)
 
 [Unsupervised Creation of Parameterized Avatars](https://research.fb.com/wp-content/uploads/2017/08/unsupervised-creation-parameterized.pdf)
+
+[Improved Techniques for Training GANs](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5bea0c6a_improved-training-techniques/improved-training-techniques.pdf)
+
 ## Books ##
 [Grokking Deep Learning by Andrew Trask](https://www.manning.com/books/grokking-deep-learning)
 
