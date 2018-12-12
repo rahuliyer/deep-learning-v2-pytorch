@@ -62,7 +62,7 @@ def save_samples(iteration, fixed_Y, fixed_X, G_YtoX, G_XtoY, batch_size=16, sam
     """Saves samples from both generators X->Y and Y->X.
         """
     # move input data to correct device
-    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
 
     fake_X = G_YtoX(fixed_Y.to(device))
     fake_Y = G_XtoY(fixed_X.to(device))
