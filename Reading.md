@@ -1,6 +1,11 @@
 
 # Interesting reading material on deep learning
 
+## Tips and tricks for Training Deep Neural Networks ##
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+
+[Optimization for training deep learning models]([http://www.deeplearningbook.org/contents/optimization.html)
+
 ## RNNs ##
 ### RNN and LSTM introduction ###
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -45,10 +50,18 @@
 
 ## GANs ##
 
-### GAN technical details ###
+### GAN architectures and training ###
 [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 
-[Improved Techniques for Training GANs](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5bea0c6a_improved-training-techniques/improved-training-techniques.pdf)
+[Improved Techniques for Training GANs](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5bea0c6a_improved-training-techniques/improved-training-techniques.pdf) ( [Code](https://github.com/Sleepychord/ImprovedGAN-pytorch) )
+
+[Unsupervised Representational Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
+
+[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)
+
+[High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://tcwang0509.github.io/pix2pixHD/)
+
+[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf) ( [Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) )
 
 ### GAN applications ###
 [Interesting GAN applications](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
@@ -62,6 +75,14 @@
 [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5bea23cd_cartoongan/cartoongan.pdf)
 
 [Unsupervised Creation of Parameterized Avatars](https://research.fb.com/wp-content/uploads/2017/08/unsupervised-creation-parameterized.pdf)
+
+[MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation](https://arxiv.org/abs/1703.10847)
+
+[Fine-Grained Car Detection for Visual Census Estimation](https://arxiv.org/abs/1709.02480)
+
+[Controllable Invariance through Adversarial Feature Learning](https://arxiv.org/pdf/1705.11122.pdf)
+
+[CycleGAN Face-off](https://arxiv.org/pdf/1712.03451.pdf)
 
 ## Books ##
 [Grokking Deep Learning by Andrew Trask](https://www.manning.com/books/grokking-deep-learning)
